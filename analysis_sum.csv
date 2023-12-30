@@ -1,0 +1,12 @@
+Repo,File,Method,Start,End,JavaDoc,Lines,Check,Magic,Unsupported,Style Errors
+src,ExpressionEvaluator.java,convertToTokens,33,53,true,14,false,false,false,0
+src,ExpressionEvaluator.java,checkParenCountBalanced,61,71,true,6,false,false,false,0
+src,ExpressionEvaluator.java,checkTokens,78,93,true,9,false,false,false,0
+src,ExpressionEvaluator.java,checkFirstAndLastToken,101,106,true,2,false,false,false,0
+src,ExpressionEvaluator.java,padTokensWithSpaces,120,125,true,2,false,false,false,0
+src,ExpressionEvaluator.java,opPrec,132,140,true,1,false,false,false,0
+src,ExpressionEvaluator.java,isHigherPrecedence,149,151,true,1,false,false,false,0
+src,ExpressionEvaluator.java,evaluateNums,161,175,true,4,false,false,false,0
+src,ExpressionEvaluator.java,isData,184,191,true,3,false,false,false,0
+src,ExpressionEvaluator.java,isTokenOp,198,203,true,2,false,false,false,0
+src,ExpressionEvaluator.java,evaluateExpression,228,258,true,28,false,false,false,0
